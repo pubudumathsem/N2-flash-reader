@@ -1,0 +1,88 @@
+number|kanji|reading|english|sinhala
+1|福祉|ふくし|Welfare|සුබසාධනය
+2|討論|とうろん|Debate; discussion|විවාදය; සාකච්ඡාව
+3|破片|はへん|Fragment; broken piece|කැබැල්ල; සුන්බුන් කොටස
+4|拡充|かくじゅう|Expansion; enhancement|පුළුල් කිරීම; වර්ධනය කිරීම
+5|警備|けいび|Security; guard|ආරක්ෂාව; මුර සේවය
+6|治療|ちりょう|Medical treatment|වෛද්‍ය ප්‍රතිකාර
+7|運賃|うんちん|Fare|ගමන් ගාස්තුව
+8|撮影|さつえい|Photography; filming|ඡායාරූප ගැනීම; රූගත කිරීම
+9|豊富|ほうふ|Abundant; rich|බහුල; සම්පත් බහුල
+10|管理|かんり|Management; control|කළමනාකරණය; පාලනය
+11|削除|さくじょ|Deletion|මකා දැමීම
+12|勧誘|かんゆう|Solicitation; invitation to join|එක්වීමට ආරාධනා කිරීම
+13|模範|もはん|Model; example|ආදර්ශය
+14|腕|うで|Arm; skill|අත; දක්ෂතාව
+15|損害|そんがい|Damage; loss|හානිය; පාඩුව
+16|順調|じゅんちょう|Smooth; going well|සාර්ථකව; බාධාවකින් තොරව
+17|垂直|すいちょく|Vertical; perpendicular|සිරස්; ලම්බක
+18|永久|えいきゅう|Permanent; eternity|සදාකාලික; සදාතනික
+19|介護|かいご|Nursing care|රැකවරණය; සාත්තු කිරීම
+20|刺激|しげき|Stimulus; stimulation|උත්තේජනය
+21|実践|じっせん|Practice; putting into practice|ප්‍රායෝගිකව ක්‍රියාත්මක කිරීම
+22|相互|そうご|Mutual; each other|අන්‍යෝන්‍ය; එකිනෙකා
+23|景色|けしき|Scenery; view|දර්ශනය; අවට පරිසරයේ සුන්දරත්වය
+24|防災|ぼうさい|Disaster prevention|ආපදා වැළැක්වීම
+25|礼儀|れいぎ|Manners; courtesy|ආචාරශීලීත්වය; සිරිත් විරිත්
+26|出世|しゅっせ|Success in life; promotion|ජීවිතයේ දියුණුව; උසස්වීම
+27|伝統|でんとう|Tradition|සම්ප්‍රදාය
+28|規模|きぼ|Scale; size|ප්‍රමාණය; පරිමාණය
+29|尊重|そんちょう|Respect; regard|ගෞරව කිරීම
+30|隣|となり|Next door; neighbor|අසල්වැසියා; යාබද ස්ථානය
+31|開催|かいさい|Holding an event|උත්සවයක් හෝ වැඩසටහනක් පැවැත්වීම
+32|要求|ようきゅう|Demand; request|ඉල්ලීම; අවශ්‍යතාව
+33|調節|ちょうせつ|Adjustment; regulation|සකස් කිරීම; නියාමනය
+34|至急|しきゅう|Urgent; immediately|වහාම; ඉක්මනින්
+35|象徴|しょうちょう|Symbol|සංකේතය
+36|登録|とうろく|Registration|ලියාපදිංචි කිරීම
+37|変更|へんこう|Change; alteration|වෙනස් කිරීම; සංශෝධනය
+38|地元|じもと|Local area; hometown|තම ප්‍රදේශය; උපන් ප්‍රදේශය
+39|密接|みっせつ|Close relationship|සමීප සම්බන්ධතාව
+40|率直|そっちょく|Frank; straightforward|අවංක; සෘජු
+41|装置|そうち|Device; equipment|උපකරණය; යන්ත්‍රය
+42|焦点|しょうてん|Focus|අවධානය යොමු වන ස්ථානය
+43|積極的|せっきょくてき|Active; proactive|ක්‍රියාශීලී; උනන්දුවෙන් ඉදිරිපත් වන
+44|抵抗|ていこう|Resistance|ප්‍රතිරෝධය; විරෝධය
+45|肩|かた|Shoulder|උරහිස
+46|志望|しぼう|Wish; aspiration|අභිලාෂය; බලාපොරොත්තුව
+47|短編|たんぺん|Short story; short work|කෙටිකතාව; කෙටි නිර්මාණය
+48|疲労|ひろう|Fatigue|තෙහෙට්ටුව; විඩාව
+49|優秀|ゆうしゅう|Excellent; outstanding|විශිෂ්ට; දක්ෂ
+50|背骨|せぼね|Spine; backbone|කොඳු ඇට පෙළ
+51|衣装|いしょう|Costume; clothing|ඇඳුම්; ඇඳුම් කට්ටලය
+52|避難|ひなん|Evacuation; taking refuge|ආරක්ෂිත ස්ථානයකට පලා යාම
+53|受講|じゅこう|Attending a course|පාඨමාලාවකට සහභාගී වීම
+54|発揮|はっき|Display of ability|හැකියාව ප්‍රදර්ශනය කිරීම
+55|刑事|けいじ|Police detective|අපරාධ විමර්ශන පොලිස් නිලධාරියා
+56|起床|きしょう|Getting up from bed|නින්දෙන් අවදි වී නැගිටීම
+57|傾向|けいこう|Tendency; trend|ප්‍රවණතාව
+58|視察|しさつ|Inspection; visit|නිරීක්ෂණ චාරිකාව; පරීක්ෂා කිරීම
+59|施設|しせつ|Facility; institution|පහසුකම; ආයතනය
+60|柱|はしら|Pillar; post|කණුව; ස්ථම්භය
+61|統一|とういつ|Unification; unity|එක්සත් කිරීම; ඒකාබද්ධ කිරීම
+62|濃厚|のうこう|Rich; thick; strong|ඝන; තද; ප්‍රබල
+63|諸問題|しょもんだい|Various problems|විවිධ ගැටලු
+64|商店街|しょうてんがい|Shopping street|වෙළඳසැල් වීදිය; වෙළඳ ප්‍රදේශය
+65|高収入|こうしゅうにゅう|High income|ඉහළ ආදායම
+66|副社長|ふくしゃちょう|Vice president|උප සභාපති; නියෝජ්‍ය සභාපති
+67|集中力|しゅうちゅうりょく|Concentration; focus|අවධානය යොමු කිරීමේ හැකියාව
+68|評判|ひょうばん|Reputation; review|කීර්තිය; ප්‍රතිචාරය
+69|評価|ひょうか|Evaluation|ඇගයීම; තක්සේරුව
+70|決断|けつだん|Decision|තීරණය
+71|発生|はっせい|Occurrence; outbreak|සිදුවීම; හටගැනීම
+72|発行|はっこう|Issue; publication|නිකුත් කිරීම; ප්‍රකාශනය
+73|軟弱|なんじゃく|Weak; feeble|දුර්වල; ශක්තිය අඩු
+74|質素|しっそ|Simple; modest|සරල; චාම්
+75|利点|りてん|Advantage|වාසිය; ප්‍රයෝජනය
+76|権利|けんり|Right; entitlement|අයිතිය; හිමිකම
+77|効用|こうよう|Use; benefit|ප්‍රයෝජනය; ප්‍රතිලාභය
+78|有効|ゆうこう|Effective; valid|ඵලදායී; වලංගු
+79|雑談|ざつだん|Chat; small talk|සාමාන්‍ය කතාබහ
+80|取材|しゅざい|News gathering; interview|තොරතුරු රැස් කිරීම; සම්මුඛ සාකච්ඡාව
+81|深刻|しんこく|Serious; severe|බරපතළ; උග්‍ර
+82|続出|ぞくしゅつ|Occurring one after another|එකින් එක දිගටම සිදුවීම
+83|外見|がいけん|Appearance|බාහිර පෙනුම
+84|報告|ほうこく|Report|වාර්තාව; වාර්තා කිරීම
+85|再放送|さいほうそう|Rebroadcast|නැවත විකාශනය කිරීම
+86|予約制|よやくせい|Reservation system|කලින් වෙන්කරවා ගැනීමේ ක්‍රමය
+87|就職率|しゅうしょくりつ|Employment rate|රැකියා ලබාගැනීමේ අනුපාතය
