@@ -175,8 +175,10 @@ button:hover {
 }
 
 .kanji {
+  font-family: "Yu Mincho", "YuMincho", "MS Mincho", "Noto Serif JP", serif;
   font-size: clamp(4rem, 12vw, 7rem);
   font-weight: 400;
+  line-height: 1.2;
 }
 
 .reading {
